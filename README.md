@@ -42,7 +42,7 @@ No build step needed. Just clone and open.
 
 ```bash
 git clone https://github.com/namish-yadav/ios-sideloading.git
-cd <repo-name>
+cd <ios-sideloading>
 open index.html
 ```
 
