@@ -41,7 +41,7 @@ This project is a static informational webpage covering iOS sideloading concepts
 No build step needed. Just clone and open.
 
 ```bash
-git clone https://github.com/namish-yadav/<repo-name>.git
+git clone https://github.com/namish-yadav/ios-sideloading.git
 cd <repo-name>
 open index.html
 ```
