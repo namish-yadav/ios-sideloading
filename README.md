@@ -59,7 +59,7 @@ Or drag `index.html` into any browser.
 5. Your site will be live at:
 
 ```
-https://namish-yadav.github.io/<repo-name>/
+https://namish-yadav.github.io/ios-sideloading/
 ```
 
 ---
