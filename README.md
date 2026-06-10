@@ -71,6 +71,8 @@ https://namish-yadav.github.io/ios-sideloading/
 - **Xcode** — Apple's official IDE, supports direct device installs
 - **Scarlet** — No-jailbreak iOS app installer
 
+-Adding proper tuts soon
+
 ---
 
 ## Connect
